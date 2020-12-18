@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nowiko/JsonRequestBundle.svg?branch=master)](https://travis-ci.org/nowiko/JsonRequestBundle) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nowiko/JsonRequestBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nowiko/JsonRequestBundle/?branch=master)
+
 JsonRequest Bundle
 =================================
 
